@@ -1,0 +1,14 @@
+{
+  "name": "realtime-incident-os-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@incident-os/shared": "1.0.0"
+  }
+}
+
