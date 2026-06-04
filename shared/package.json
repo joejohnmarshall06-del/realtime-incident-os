@@ -1,0 +1,10 @@
+{
+  "name": "@incident-os/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
+
